@@ -1,5 +1,5 @@
 # Control-de-prestamos
-Control de prestamo
+
 <ul>
 <li>Análisis del Problema:</li>
 </ul>
