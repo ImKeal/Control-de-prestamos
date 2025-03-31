@@ -1,5 +1,10 @@
 # Control-de-prestamos
-
+<h3>Colaboradores:</h3>
+<ul>
+<li>Arce Taboada, Kevin Alonso (Desarrollador , )</li>
+<li>Quichiz Mego, Tania Elizabeth (Desarrollador , )</li>
+<li>Patricio Tinco, Damian (Desarrollador , )</li>
+</ul>
 <ul>
 <li>Análisis del Problema:</li>
 </ul>
