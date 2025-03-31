@@ -4,6 +4,7 @@
 <li>Arce Taboada, Kevin Alonso (Desarrollador , )</li>
 <li>Quichiz Mego, Tania Elizabeth (Desarrollador , )</li>
 <li>Patricio Tinco, Damian (Desarrollador , )</li>
+<li>Osco Osores , Kevin Yeander (Desarrollador , ).</li>
 </ul>
 
 <h3>Análisis del Problema:</h3>
