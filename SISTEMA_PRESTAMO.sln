@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISTEMA_PRESTAMO", "SISTEMA_PRESTAMO\SISTEMA_PRESTAMO.csproj", "{BB2B0E3E-47F5-4E15-8728-B7D2E02D57EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2B0E3E-47F5-4E15-8728-B7D2E02D57EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2B0E3E-47F5-4E15-8728-B7D2E02D57EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2B0E3E-47F5-4E15-8728-B7D2E02D57EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2B0E3E-47F5-4E15-8728-B7D2E02D57EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8070E1-853B-423D-851C-18BA73F95706}
+	EndGlobalSection
+EndGlobal
